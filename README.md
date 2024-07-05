@@ -22,4 +22,5 @@ Welcome to my GitHub profile! I'm Mayuri Ghongade, a dedicated student and avid 
 - 🚀 Explore my repositories for diverse projects, from predictive modeling to deep learning.
 - 💡 Open to collaborations and eager to contribute to innovative data projects. Let's bring insights to life through machine learning!
 - 📧 Email me for questions, suggestions, or just to say hello. Your feedback is welcome!
-- 🙏 Thanks for visiting! Looking forward to connecting with like-minded enthusiasts. Happy coding! 😊
+- 🙏 Thanks for visiting! Looking forward to connecting with like-minded enthusiasts.
+- Thank you for visiting my GitHub profile😊!
